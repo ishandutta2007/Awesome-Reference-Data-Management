@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Reference-Data-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Reference-Data-Management?style=flat-square" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Reference-Data-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Reference-Data-Management?style=flat-square" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Reference-Data-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Reference-Data-Management?style=flat-square" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Reference-Data-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
@@ -66,45 +66,45 @@ Reference data and master data form the foundational backbone for mission-critic
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted in descending order by GitHub Stars. Each repository includes a live social badge linking directly to its stargazers.*
+*Sorted in descending order by GitHub_Stars. Each repository includes a live social badge linking directly to its stargazers.*
 
-- ### 🌟 **[OpenRefine](https://github.com/OpenRefine/OpenRefine)** [![GitHub stars](https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=social&color=white)](https://github.com/OpenRefine/OpenRefine/stargazers)
+- ### 🌟 **[OpenRefine](https://github.com/OpenRefine/OpenRefine)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=social&color=white)](https://github.com/OpenRefine/OpenRefine/stargazers)
   The premier free and open-source data manipulation and cleansing tool. Features powerful reference data reconciliation against standard knowledge graphs (Wikidata), entity resolution, facets, and GREL-based transformation expressions.
 
-- ### 🌟 **[Dedupe](https://github.com/dedupeio/dedupe)** [![GitHub stars](https://img.shields.io/github/stars/dedupeio/dedupe?style=social&color=white)](https://github.com/dedupeio/dedupe/stargazers)
+- ### 🌟 **[Dedupe](https://github.com/dedupeio/dedupe)** [![GitHub_Stars](https://img.shields.io/github/stars/dedupeio/dedupe?style=social&color=white)](https://github.com/dedupeio/dedupe/stargazers)
   Python library that applies active machine learning to perform deduplication, entity resolution, and record linkage. Crucial for matching disparate data sources and synthesizing unified golden records.
 
-- ### 🌟 **[Pimcore MDM](https://github.com/pimcore/pimcore)** [![GitHub stars](https://img.shields.io/github/stars/pimcore/pimcore?style=social&color=white)](https://github.com/pimcore/pimcore/stargazers)
+- ### 🌟 **[Pimcore MDM](https://github.com/pimcore/pimcore)** [![GitHub_Stars](https://img.shields.io/github/stars/pimcore/pimcore?style=social&color=white)](https://github.com/pimcore/pimcore/stargazers)
   Full-featured open-source enterprise platform providing multi-domain Master Data Management (MDM), Product Information Management (PIM), Digital Asset Management (DAM), and Customer Data Platform (CDP) capabilities.
 
-- ### 🌟 **[Splink](https://github.com/moj-analytical-services/splink)** [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink?style=social&color=white)](https://github.com/moj-analytical-services/splink/stargazers)
+- ### 🌟 **[Splink](https://github.com/moj-analytical-services/splink)** [![GitHub_Stars](https://img.shields.io/github/stars/moj-analytical-services/splink?style=social&color=white)](https://github.com/moj-analytical-services/splink/stargazers)
   Fast, ultra-scalable probabilistic record linkage and entity resolution library developed by the UK Ministry of Justice. Scales to hundreds of millions of records using DuckDB, Apache Spark, or AWS Athena.
 
-- ### 🌟 **[Zingg](https://github.com/zinggAI/zingg)** [![GitHub stars](https://img.shields.io/github/stars/zinggAI/zingg?style=social&color=white)](https://github.com/zinggAI/zingg/stargazers)
+- ### 🌟 **[Zingg](https://github.com/zinggAI/zingg)** [![GitHub_Stars](https://img.shields.io/github/stars/zinggAI/zingg?style=social&color=white)](https://github.com/zinggAI/zingg/stargazers)
   Production-grade, ML-powered entity resolution and deduplication framework built for Apache Spark and modern data lakes/warehouses (Snowflake, Databricks). Builds reliable 360-degree customer and entity golden records.
 
-- ### 🌟 **[DataCleaner](https://github.com/datacleaner/DataCleaner)** [![GitHub stars](https://img.shields.io/github/stars/datacleaner/DataCleaner?style=social&color=white)](https://github.com/datacleaner/DataCleaner/stargazers)
+- ### 🌟 **[DataCleaner](https://github.com/datacleaner/DataCleaner)** [![GitHub_Stars](https://img.shields.io/github/stars/datacleaner/DataCleaner?style=social&color=white)](https://github.com/datacleaner/DataCleaner/stargazers)
   Enterprise data profiling, validation, and hygiene engine. Provides visual workflows to discover anomalies, monitor reference code conformity, and validate master data pipelines.
 
-- ### 🌟 **[AtroCore](https://github.com/atrocore/atrocore)** [![GitHub stars](https://img.shields.io/github/stars/atrocore/atrocore?style=social&color=white)](https://github.com/atrocore/atrocore/stargazers)
+- ### 🌟 **[AtroCore](https://github.com/atrocore/atrocore)** [![GitHub_Stars](https://img.shields.io/github/stars/atrocore/atrocore?style=social&color=white)](https://github.com/atrocore/atrocore/stargazers)
   Open-source, highly modular Business Application Platform designed from the ground up for Master Data Management (MDM), Reference Data catalogs, and PIM. Supports flexible entity relations, survivorship rules, and custom REST APIs.
 
-- ### 🌟 **[GoldenMatch](https://github.com/benseverndev-oss/goldenmatch)** [![GitHub stars](https://img.shields.io/github/stars/benseverndev-oss/goldenmatch?style=social&color=white)](https://github.com/benseverndev-oss/goldenmatch/stargazers)
+- ### 🌟 **[GoldenMatch](https://github.com/benseverndev-oss/goldenmatch)** [![GitHub_Stars](https://img.shields.io/github/stars/benseverndev-oss/goldenmatch?style=social&color=white)](https://github.com/benseverndev-oss/goldenmatch/stargazers)
   High-performance zero-configuration Python library for entity resolution, probabilistic matching, and automated golden record consolidation across messy tabular datasets.
 
-- ### 🌟 **[Fuyuko](https://github.com/tmjeee/fuyuko)** [![GitHub stars](https://img.shields.io/github/stars/tmjeee/fuyuko?style=social&color=white)](https://github.com/tmjeee/fuyuko/stargazers)
+- ### 🌟 **[Fuyuko](https://github.com/tmjeee/fuyuko)** [![GitHub_Stars](https://img.shields.io/github/stars/tmjeee/fuyuko?style=social&color=white)](https://github.com/tmjeee/fuyuko/stargazers)
   Modern open-source Master Data Management and Product Information Management web application built for managing complex domain schemas, classifications, and master entities.
 
-- ### 🌟 **[Eclipse BPDM](https://github.com/eclipse-tractusx/bpdm)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-tractusx/bpdm?style=social&color=white)](https://github.com/eclipse-tractusx/bpdm/stargazers)
+- ### 🌟 **[Eclipse BPDM](https://github.com/eclipse-tractusx/bpdm)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-tractusx/bpdm?style=social&color=white)](https://github.com/eclipse-tractusx/bpdm/stargazers)
   Eclipse Tractus-X Business Partner Data Management service. Provides microservices and persistent infrastructure for the automated generation and lifecycle management of legal entity "Golden Records".
 
-- ### 🌟 **[AURUM](https://github.com/RajaMDM/AURUM)** [![GitHub stars](https://img.shields.io/github/stars/RajaMDM/AURUM?style=social&color=white)](https://github.com/RajaMDM/AURUM/stargazers)
+- ### 🌟 **[AURUM](https://github.com/RajaMDM/AURUM)** [![GitHub_Stars](https://img.shields.io/github/stars/RajaMDM/AURUM?style=social&color=white)](https://github.com/RajaMDM/AURUM/stargazers)
   Vendor-agnostic reference implementation covering the complete MDM lifecycle: raw data ingestion, profiling, matching, survivorship rules, golden record generation, and stewardship task routing.
 
-- ### 🌟 **[RDataCore](https://github.com/BentBr/r_data_core)** [![GitHub stars](https://img.shields.io/github/stars/BentBr/r_data_core?style=social&color=white)](https://github.com/BentBr/r_data_core/stargazers)
+- ### 🌟 **[RDataCore](https://github.com/BentBr/r_data_core)** [![GitHub_Stars](https://img.shields.io/github/stars/BentBr/r_data_core?style=social&color=white)](https://github.com/BentBr/r_data_core/stargazers)
   Self-hosted master data management engine written in Rust. Features a dynamic entity modeling system, workflow triggers, immutable audit versioning, and high-throughput REST APIs.
 
-- ### 🌟 **[open-mdm](https://github.com/open-mdm/open-mdm)** [![GitHub stars](https://img.shields.io/github/stars/open-mdm/open-mdm?style=social&color=white)](https://github.com/open-mdm/open-mdm/stargazers)
+- ### 🌟 **[open-mdm](https://github.com/open-mdm/open-mdm)** [![GitHub_Stars](https://img.shields.io/github/stars/open-mdm/open-mdm?style=social&color=white)](https://github.com/open-mdm/open-mdm/stargazers)
   Microservices architecture prototype for core hub-style master data management, dynamic schema validation, and real-time pub/sub event distribution.
 
 ---
@@ -164,7 +164,7 @@ Contributions to expand this ecosystem are very welcome!
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-tool`).
 3. 📝 Add your entry ensuring:
    - For **SaaS platforms**: include company scale (valuation/revenue), specific entry-tier pricing, and specific free tier / trial days and limits.
-   - For **Open-source projects**: include the official GitHub repo link and social star badge linked to the stargazers page.
+   - For **Open-source projects**: include the official GitHub repo link and social Stars_Badge linked to the stargazers page.
 4. 🚀 Open a **Pull Request** with a concise description of the platform's architectural fit.
 
 ---
